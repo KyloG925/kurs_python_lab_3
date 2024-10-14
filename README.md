@@ -4,7 +4,7 @@ Krzysztof Głowiński kg439929 - utworzenie git repo oraz parsowanie argumentów
 
 (...) [możecie się wpisać]
 
-Przykład użycia funkcji parsowania argumentów:
+# Przykład użycia funkcji parsowania argumentów:
 
 ```
 from parse_arguments import parse_arguments
