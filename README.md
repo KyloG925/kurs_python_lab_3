@@ -21,3 +21,5 @@ np.
 python3 parse_arguments.py -m styczen luty listopad -d pn-pt pt czw -t r r w -o u -c
 ```
 W pliku parse_arguments.py w komentarzu dostępny jest opis funkcji wraz z informacją, co ona zwraca.
+
+Gdybyście mieli jakieś pytania/problemy piszcie.
