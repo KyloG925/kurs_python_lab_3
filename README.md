@@ -1,4 +1,4 @@
-# Rozwiązanie do grupowego zadania domowego z labu 3 (Kurs Pythona)
+# Rozwiązanie grupowego zadania domowego z labu 3 (Kurs Pythona)
 
 Krzysztof Głowiński kg439929 - utworzenie git repo oraz parsowanie argumentów
 
