@@ -2,6 +2,8 @@
 
 Krzysztof Głowiński kg439929 - utworzenie git repo oraz parsowanie argumentów
 
+Konrad Kedzierski kk459164 - Obsluga (zapis i odczyt) plikow .csv.
+
 (...) [możecie się wpisać]
 
 # Przykład użycia funkcji parsowania argumentów:
