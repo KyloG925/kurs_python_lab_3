@@ -6,6 +6,8 @@ Konrad Kedzierski kk459164 - Obsluga (zapis i odczyt) plikow .csv.
 
 Tymoteusz Fedorowski tf458956 - Obsluga (zapis i odczyt) plikow .json
 
+Piotr Ochal po459457 - Generowanie ścieżek do plików na podstawie argumentów
+
 (...) [możecie się wpisać]
 
 # Przykład użycia funkcji parsowania argumentów:
